@@ -1,0 +1,10 @@
+.venv
+local.settings.json
+.vscode/
+.git/
+__pycache__/
+*.pyc
+.python_packages/
+bin/
+obj/
+.funcignore
